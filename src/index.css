@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form {
+  position: absolute;
+  top: -0;
+  left: 0;
+  width: 100%;
+  background: transparent url("./Assets/Path 396.jpg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  background-size: cover;
+}
