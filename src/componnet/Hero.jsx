@@ -1,5 +1,4 @@
-// Remove this import statement
-// import { useMediaQuery } from 'react-responsive';
+
 
 import { useEffect, useState } from "react";
 import sidebar from "../Assets/sidebar.png";
